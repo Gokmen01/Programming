@@ -1,0 +1,16 @@
+bestand = open('C:/Users/Gokmen/Documents/kaartnummers.txt', 'r')
+for regel in bestand:
+    zin = bestand.readlines()
+    regelMax = max(zin)
+    regelMax1 = regelMax[:6]
+    print(regelMax1)
+
+#hoort bij pe4_3
+
+def stringCount(filename, target):
+    filename = 'C:/Users/Gokmen/Documents/kaartnummers.txt', 'r'
+    target = linelist
+    bestand = open(filename)
+    content = bestand.read()
+    bestand.close()
+    return content.count(target)
