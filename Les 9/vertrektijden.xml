@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+
+<ActueleVertrekTijden>
+
+	<VertrekkendeTrein>
+		<RitNummer>7647</RitNummer>
+		<VertrekTijd>2016-10-04T14:24:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Zutphen</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">3</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>31156</RitNummer>
+		<VertrekTijd>2016-10-04T14:29:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Tiel</EindBestemming>
+		<TreinSoort>stoptrein</TreinSoort>
+		
+			<RouteTekst>Elst</RouteTekst>
+		
+		
+			<Vervoerder>Arriva</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">4</VertrekSpoor>
+		
+			<ReisTip>Stopt niet in Arnhem Zuid</ReisTip>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3048</RitNummer>
+		<VertrekTijd>2016-10-04T14:31:00+0200</VertrekTijd>
+		
+			<VertrekVertraging>PT8M</VertrekVertraging>
+		
+		
+			<VertrekVertragingTekst>+8 min</VertrekVertragingTekst>
+		
+		<EindBestemming>Den Helder</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Ede-Wageningen, Utrecht C, Amsterdam CS</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">11</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>30947</RitNummer>
+		<VertrekTijd>2016-10-04T14:33:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Winterswijk</EindBestemming>
+		<TreinSoort>stoptrein</TreinSoort>
+		
+			<RouteTekst>Zevenaar, Doetinchem</RouteTekst>
+		
+		
+			<Vervoerder>Arriva</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">6b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3047</RitNummer>
+		<VertrekTijd>2016-10-04T14:34:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Nijmegen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">8</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>126</RitNummer>
+		<VertrekTijd>2016-10-04T14:35:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Amsterdam Centraal</EindBestemming>
+		<TreinSoort>ICE International</TreinSoort>
+		
+			<RouteTekst>Utrecht C</RouteTekst>
+		
+		
+			<Vervoerder>NS International</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">9</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7550</RitNummer>
+		<VertrekTijd>2016-10-04T14:37:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Ede-Wageningen</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">10</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7650</RitNummer>
+		<VertrekTijd>2016-10-04T14:38:00+0200</VertrekTijd>
+		
+			<VertrekVertraging>PT2M</VertrekVertraging>
+		
+		
+			<VertrekVertragingTekst>+2 min</VertrekVertragingTekst>
+		
+		<EindBestemming>Nijmegen</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Elst</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">7</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3646</RitNummer>
+		<VertrekTijd>2016-10-04T14:40:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Zwolle</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Zutphen, Deventer</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">3</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3150</RitNummer>
+		<VertrekTijd>2016-10-04T14:46:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Schiphol Airport</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Ede-Wageningen, Driebergen-Zeist, Utrecht C</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">11</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>30749</RitNummer>
+		<VertrekTijd>2016-10-04T14:48:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Doetinchem</EindBestemming>
+		<TreinSoort>stoptrein</TreinSoort>
+		
+			<RouteTekst>Zevenaar</RouteTekst>
+		
+		
+			<Vervoerder>Breng</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">6b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3149</RitNummer>
+		<VertrekTijd>2016-10-04T14:49:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Nijmegen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">8</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3653</RitNummer>
+		<VertrekTijd>2016-10-04T14:52:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Roosendaal</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Nijmegen, Oss, s-Hertogenbosch</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">7</VertrekSpoor>
+		
+			<ReisTip>Stopt tot Nijmegen op tussengelegen stations</ReisTip>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7649</RitNummer>
+		<VertrekTijd>2016-10-04T14:54:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Zutphen</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">3</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>31158</RitNummer>
+		<VertrekTijd>2016-10-04T14:59:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Tiel</EindBestemming>
+		<TreinSoort>stoptrein</TreinSoort>
+		
+			<RouteTekst>Elst</RouteTekst>
+		
+		
+			<Vervoerder>Arriva</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">6a</VertrekSpoor>
+		
+			<ReisTip>Stopt niet in Arnhem Zuid</ReisTip>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3050</RitNummer>
+		<VertrekTijd>2016-10-04T15:01:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Den Helder</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Ede-Wageningen, Utrecht C, Amsterdam CS</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">11</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>30949</RitNummer>
+		<VertrekTijd>2016-10-04T15:03:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Winterswijk</EindBestemming>
+		<TreinSoort>stoptrein</TreinSoort>
+		
+			<RouteTekst>Zevenaar, Doetinchem</RouteTekst>
+		
+		
+			<Vervoerder>Arriva</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">6b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3049</RitNummer>
+		<VertrekTijd>2016-10-04T15:04:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Nijmegen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">8</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7552</RitNummer>
+		<VertrekTijd>2016-10-04T15:07:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Ede-Wageningen</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">10</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7652</RitNummer>
+		<VertrekTijd>2016-10-04T15:08:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Nijmegen</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Elst</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">7</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3648</RitNummer>
+		<VertrekTijd>2016-10-04T15:10:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Zwolle</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Zutphen, Deventer</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">3</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3152</RitNummer>
+		<VertrekTijd>2016-10-04T15:16:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Schiphol Airport</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Ede-Wageningen, Driebergen-Zeist, Utrecht C</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">11</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>30751</RitNummer>
+		<VertrekTijd>2016-10-04T15:18:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Doetinchem</EindBestemming>
+		<TreinSoort>stoptrein</TreinSoort>
+		
+			<RouteTekst>Zevenaar</RouteTekst>
+		
+		
+			<Vervoerder>Breng</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">6b</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3151</RitNummer>
+		<VertrekTijd>2016-10-04T15:19:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Nijmegen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">8</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3655</RitNummer>
+		<VertrekTijd>2016-10-04T15:22:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Roosendaal</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Nijmegen, Oss, s-Hertogenbosch</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">7</VertrekSpoor>
+		
+			<ReisTip>Stopt tot Nijmegen op tussengelegen stations</ReisTip>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7651</RitNummer>
+		<VertrekTijd>2016-10-04T15:24:00+0200</VertrekTijd>
+		
+		
+		<EindBestemming>Zutphen</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">3</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+</ActueleVertrekTijden>
