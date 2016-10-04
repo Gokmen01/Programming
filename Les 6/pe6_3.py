@@ -16,3 +16,4 @@ for (key, value) in studentNamen.items():
 for (key, value) in studentNamen.items():
     if value > 1:
         print("Er zijn {} studenten met de naam {}".format(value,key))
+  #fds
